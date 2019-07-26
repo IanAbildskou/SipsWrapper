@@ -25,10 +25,10 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.sips.sips"
+      "bundleIdentifier": "com.sipsWrapper.sips"
     },
     "android": {
-      "package": "com.sips.sips"
+      "package": "com.sipsWrapper.sips"
     }
   }
 }
