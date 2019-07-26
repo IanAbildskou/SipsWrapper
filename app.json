@@ -24,7 +24,11 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.sips.sips"
+    },
+    "android": {
+      "package": "com.sips.sips"
     }
   }
 }
